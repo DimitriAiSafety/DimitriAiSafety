@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Dimitri — Future AI Safety Engineer
 
- I'm Dimitri — Future AI Safety Engineer
 
 🎯 Aspiring to build safe, ethical, and robust artificial intelligence systems.  
 📍 Currently focused on foundational skills in Python, Deep Learning, and AI Alignment.
